@@ -1,0 +1,3 @@
+[submodule "all"]
+	path = all
+	url = https://github.com/DaniloBojovic/BookInfo.git

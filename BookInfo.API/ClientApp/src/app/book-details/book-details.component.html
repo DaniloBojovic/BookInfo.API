@@ -1,0 +1,21 @@
+<div class="center" *ngIf="bookDetails">
+    <mat-card class="example-card">
+        <mat-card-header>
+            <div mat-card-avatar class="example-header-image"></div>
+            <mat-card-title>{{bookDetails.title}}</mat-card-title>
+            <mat-card-subtitle>Author: <b>{{bookDetails.author}}</b></mat-card-subtitle>
+        </mat-card-header>
+        <img mat-card-image [src]="bookDetails.img" alt="book">
+        <mat-card-content>
+            <p>
+                {{bookDetails.description}}
+            </p>
+        </mat-card-content>
+        <mat-card-actions>
+            <button mat-button>LIKE</button>
+            <button mat-icon-button aria-label="Example icon-button with a heart icon">
+                <mat-icon>favorite</mat-icon>
+            </button>
+        </mat-card-actions>
+    </mat-card>
+</div>
