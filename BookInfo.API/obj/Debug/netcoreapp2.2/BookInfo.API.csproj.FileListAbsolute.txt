@@ -1,4 +1,3 @@
-C:\dbojovic\Projects\BookInfo.API\BookInfo.API\obj\Debug\netcoreapp2.2\BookInfo.API.csprojAssemblyReference.cache
 C:\dbojovic\Projects\BookInfo.API\BookInfo.API\obj\Debug\netcoreapp2.2\BookInfo.API.csproj.CoreCompileInputs.cache
 C:\dbojovic\Projects\BookInfo.API\BookInfo.API\obj\Debug\netcoreapp2.2\BookInfo.API.RazorAssemblyInfo.cache
 C:\dbojovic\Projects\BookInfo.API\BookInfo.API\obj\Debug\netcoreapp2.2\BookInfo.API.RazorAssemblyInfo.cs
